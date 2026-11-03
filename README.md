@@ -5,7 +5,7 @@
 
 I build user-facing platforms for satellite and geospatial data. I spent two years on the team behind the **Copernicus Data Space Ecosystem Browser** and **EO Browser** at Sinergise (later Planet Labs), and most recently delivered **ZAGreen**, a web-GIS platform for green-roof prioritization funded by the City of Zagreb. My toolkit combines front-end development (Angular, React, TypeScript) with Python-based geospatial analysis (QGIS, GeoPandas, Rasterio) — and more recently, drone photogrammetry.
 
-[LinkedIn](https://www.linkedin.com/in/ervispriftis) · [Portfolio](https://stelios-priftis-portfolio.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/ervispriftis) · [Portfolio](https://sep-gis-portfolio.netlify.app/#top)
 
 ---
 
