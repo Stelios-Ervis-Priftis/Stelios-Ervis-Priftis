@@ -12,7 +12,7 @@ I build user-facing platforms for satellite and geospatial data. I spent two yea
 ## Featured projects
 
 ### 🌱 [ZAGreen](https://zagreen.listlabs.net/) — Green-roof prioritization for Zagreb
-*LIST LABS d.o.o. · City of Zagreb 2025 open-data grant · 2026–ongoing*
+*LIST LABS d.o.o. · City of Zagreb 2025 open-data grant · Feb–Oct 2026*
 
 Interactive web-GIS application that maps and ranks green-roof candidates across the City of Zagreb to support urban heat-island mitigation.
 
